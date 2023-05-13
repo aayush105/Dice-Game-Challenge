@@ -51,8 +51,7 @@ p {
 
 img {
   width: 80%;
-  animation: diceTransition 1s;
-  
+animation: diceTransition 1s;
 }
 
 @keyframes diceTransition {
